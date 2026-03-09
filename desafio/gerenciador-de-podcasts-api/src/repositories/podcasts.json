@@ -1,0 +1,26 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["saúde", "esporte", "bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHELLO - Flow #339",
+        "videoId": "4KDGTdiOV4I",
+        "categories": ["esporte", "corrida"]
+    },
+    {
+        "podcastName": "NerdCast",
+        "episode": "NerdCast 900 - Inteligência Artificial",
+        "videoId": "NCDemo900",
+        "categories": ["tecnologia", "ciência", "entretenimento"]
+    },
+    {
+        "podcastName": "Mamilos",
+        "episode": "Mamilos 400 - O Futuro do Trabalho",
+        "videoId": "MamDemo400",
+        "categories": ["sociedade", "trabalho", "tendências"]
+    }
+]
